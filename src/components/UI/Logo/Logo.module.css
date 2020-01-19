@@ -1,1 +1,9 @@
 
+.Logo{
+    float: left;
+    padding: 10px 0;
+}
+.Logo img{
+    max-width: 60%;
+    height: auto;
+}

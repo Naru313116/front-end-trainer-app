@@ -1,0 +1,26 @@
+.Button{
+    background-color: #99b898;
+    opacity: 0.7;
+    border: none;
+    outline: none;
+    position: absolute;
+    border-radius: 40px;
+    top: 60%;
+    left: 50%;
+    width: 200px;
+    height: 100px;
+    margin-top: -50px;
+    margin-left: -100px;
+    font-size: 30px;
+    color: white;
+transition: opacity ease-in-out 0.15s;
+}
+
+.Button:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.Button:hover:active{
+    opacity: 0.9;
+
+}

@@ -1,10 +1,12 @@
 import React from "react";
-
+import classes from './NavigationItem.module.css';
 
 const NavigationItem = (props) => {
     return (
         <React.Fragment>
-            <li><a href="/">{props.children}</a></li>
+            <li className={classes.NavigationItem}>
+                <a href="/">{props.children}</a>
+            </li>
         </React.Fragment>
     );
 };

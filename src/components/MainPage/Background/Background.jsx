@@ -1,9 +1,10 @@
 import React from "react";
-
+import background from '../../../assets/images/background.jpg';
+import classes from './Background.module.css';
 const Background = () =>{
     return(
         <React.Fragment>
-            background Img
+           <img src={background} className={classes.Background}/>
         </React.Fragment>
 
     );

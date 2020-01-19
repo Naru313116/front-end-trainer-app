@@ -1,9 +1,9 @@
 import React from "react";
-
+import classes from './SignInButton.module.css';
 
 const SignInButton = (props) => {
     return (
-        <button>{props.children}</button>
+        <button className={classes.Button}>{props.children}</button>
 
     );
 };
