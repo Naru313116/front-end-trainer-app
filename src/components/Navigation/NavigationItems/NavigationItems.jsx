@@ -6,9 +6,9 @@ const NavigationItems = () =>{
     return(
             <nav className={classes.NavigationItems}>
                 <ul>
-                   <NavigationItem>Home</NavigationItem>
-                    <NavigationItem>Contact</NavigationItem>
-                    <NavigationItem>Login</NavigationItem>
+                   <NavigationItem pathname="/">Home</NavigationItem>
+                    <NavigationItem pathname="/about">Contact</NavigationItem>
+                    <NavigationItem pathname="/login">Login</NavigationItem>
                 </ul>
             </nav>
 

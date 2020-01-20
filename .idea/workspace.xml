@@ -2,24 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aae65d9-83e6-4d98-b3d9-dca4378775fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/Background/Background.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/MainPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage/SignInButton/SignInButton.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/login-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/registration-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/axios-register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedIn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedIn.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedToolbar/LoggedNavigationItems/LoggedNavigationItem/LoggedNavigationItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedToolbar/LoggedNavigationItems/LoggedNavigationItem/LoggedNavigationItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedToolbar/LoggedNavigationItems/LoggedNavigationItems.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedToolbar/LoggedNavigationItems/LoggedNavigationItems.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedToolbar/LoggedToolbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/LoggedToolbar/LoggedToolbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/Training/Training.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoggedIn/Users/Users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginPage/LoginPage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RegistrationPage/RegistrationPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RegistrationPage/RegistrationPage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/MainPage/Background/Background.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Background/Background.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Background/Background.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Background/Background.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/MainPage/MainPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/MainPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/MainPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/MainPage.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/MainPage/SignInButton/SignInButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/SignInButton/SignInButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/SignInButton/SignInButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/SignInButton/SignInButton.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UI/Logo/Logo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Logo/Logo.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/UI/Logo/Logo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Logo/Logo.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Navigation/Toolbar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,9 +84,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projekty\WebStorm\front-end-inz\src\assets\images" />
+      <recent name="E:\projekty\WebStorm\front-end-inz\src\components\LoggedIn\LoggedToolbar" />
+      <recent name="E:\projekty\WebStorm\front-end-inz\src\components\LoggedIn\LoggedToolbar\NavigationItems\NavigationItem" />
+      <recent name="E:\projekty\WebStorm\front-end-inz\src\components\LoggedIn\LoggedToolbar\NavigationItems" />
       <recent name="E:\projekty\WebStorm\front-end-inz\src\components\Navigation\Toolbar" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projekty\WebStorm\front-end-inz\src\containers" />
       <recent name="E:\projekty\WebStorm\front-end-inz\src\assets\images" />
       <recent name="E:\projekty\WebStorm\front-end-inz\src\assets" />
       <recent name="E:\projekty\WebStorm\front-end-inz\src\hoc" />
@@ -107,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579185585353</updated>
-      <workItem from="1579185587819" duration="22047000" />
+      <workItem from="1579185587819" duration="65309000" />
     </task>
     <task id="LOCAL-00001" summary="create Landing page logic plus-minus">
       <created>1579385631571</created>
@@ -116,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579385631571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init Landig Page">
+      <created>1579426814467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579426814467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,36 +158,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create Landing page logic plus-minus" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Landing page logic plus-minus" />
+    <MESSAGE value="init Landig Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="init Landig Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1720" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579385401808">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1720" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579385401808" />
-    <state x="-1710" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579353315312">
+    <state x="-1710" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579482094326">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1710" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579353315312" />
-    <state x="-1841" y="30" key="CommitChangelistDialog2" timestamp="1579385629136">
+    <state x="-1710" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579482094326" />
+    <state x="-1841" y="30" key="CommitChangelistDialog2" timestamp="1579426812359">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1841" y="30" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579385629136" />
-    <state width="888" height="258" key="GridCell.Tab.0.bottom" timestamp="1579385562577">
+    <state x="-1841" y="30" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579426812359" />
+    <state width="1899" height="-12" key="GridCell.Tab.0.bottom" timestamp="1579485533877">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="888" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579385562577" />
-    <state width="888" height="258" key="GridCell.Tab.0.center" timestamp="1579385562577">
+    <state width="1899" height="-12" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579485533877" />
+    <state width="1899" height="-12" key="GridCell.Tab.0.center" timestamp="1579485533877">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="888" height="258" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579385562577" />
-    <state width="888" height="258" key="GridCell.Tab.0.left" timestamp="1579385562577">
+    <state width="1899" height="-12" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579485533877" />
+    <state width="1899" height="-12" key="GridCell.Tab.0.left" timestamp="1579485533877">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="888" height="258" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579385562577" />
-    <state width="888" height="258" key="GridCell.Tab.0.right" timestamp="1579385562577">
+    <state width="1899" height="-12" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579485533877" />
+    <state width="1899" height="-12" key="GridCell.Tab.0.right" timestamp="1579485533877">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="888" height="258" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579385562577" />
+    <state width="1899" height="-12" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579485533877" />
+    <state x="-1754" y="244" key="run.anything.popup" timestamp="1579453103056">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1754" y="244" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579453103056" />
   </component>
 </project>

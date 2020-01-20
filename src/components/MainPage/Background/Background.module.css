@@ -10,8 +10,9 @@
     object-fit: cover;
     /* Set up positioning */
     position: fixed;
-    top: 80px;
+    top: 0;
     left: 0;
+    z-index: -1;
 }
 
 @media screen and (max-width: 1024px) { /* Specific to this particular image */

@@ -3,7 +3,21 @@
     float: left;
     padding: 10px 0;
 }
+
 .Logo img{
     max-width: 60%;
     height: auto;
+
+    transition: all  ease-in-out 0.2s;
+}
+
+.Logo img:hover{
+    cursor: pointer;
+    border-radius: 12px;
+    background-color: #49afd8;
+    transition: box-shadow ease 0.1s;
+}
+.Logo img:hover:active{
+    background-color: #49afd8;
+    box-shadow: 0 0 5px black;
 }
